@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-food-order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "tailwindcss build -i ./src/style.css -o ./public/style.css"
+  },
+  "author": "Matthew-Nguyen-20032023",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "tailwindcss": "^3.4.15"
+  }
+}
